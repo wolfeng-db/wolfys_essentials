@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Imageset Name= "CE_ITEMS" Imagefile="media/ui/icons/CE_ITEMS/CE_ITEMS.dds" NativeHorzRes="1024" NativeVertRes="1024" AutoScaled="true" >
+	<Image Name="ce_identify_book" XPos="1" YPos="1" Width="62" Height="62" />
+	<Image Name="ce_waypoint_portal_book" XPos="65" YPos="1" Width="62" Height="62" />
+	<Image Name="ce_xp" XPos="129" YPos="1" Width="62" Height="62" />
+
+	<Image Name="ce_ironskin" XPos="1" YPos="65" Width="62" Height="62" />
+	<Image Name="ce_swiftness" XPos="65" YPos="65" Width="62" Height="62" />
+	<Image Name="ce_large" XPos="129" YPos="65" Width="62" Height="62" />
+	<Image Name="ce_small" XPos="193" YPos="65" Width="62" Height="62" />
+
+	<Image Name="ce_hp_reg" XPos="1" YPos="129" Width="62" Height="62" />
+	<Image Name="ce_mn_reg" XPos="65" YPos="129" Width="62" Height="62" />
+
+	<Image Name="ce_str_1" XPos="1" YPos="257" Width="62" Height="62" />
+	<Image Name="ce_str_2" XPos="65" YPos="257" Width="62" Height="62" />
+	<Image Name="ce_str_3" XPos="129" YPos="257" Width="62" Height="62" />
+	<Image Name="ce_str_4" XPos="193" YPos="257" Width="62" Height="62" />
+
+	<Image Name="ce_dex_1" XPos="1" YPos="321" Width="62" Height="62" />
+	<Image Name="ce_dex_2" XPos="65" YPos="321" Width="62" Height="62" />
+	<Image Name="ce_dex_3" XPos="129" YPos="321" Width="62" Height="62" />
+	<Image Name="ce_dex_4" XPos="193" YPos="321" Width="62" Height="62" />
+
+	<Image Name="ce_foc_1" XPos="1" YPos="385" Width="62" Height="62" />
+	<Image Name="ce_foc_2" XPos="65" YPos="385" Width="62" Height="62" />
+	<Image Name="ce_foc_3" XPos="129" YPos="385" Width="62" Height="62" />
+	<Image Name="ce_foc_4" XPos="193" YPos="385" Width="62" Height="62" />
+
+	<Image Name="ce_vit_1" XPos="1" YPos="449" Width="62" Height="62" />
+	<Image Name="ce_vit_2" XPos="65" YPos="449" Width="62" Height="62" />
+	<Image Name="ce_vit_3" XPos="129" YPos="449" Width="62" Height="62" />
+	<Image Name="ce_vit_4" XPos="193" YPos="449" Width="62" Height="62" />
+</Imageset>
