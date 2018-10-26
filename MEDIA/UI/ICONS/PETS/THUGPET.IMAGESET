@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Imageset Name= "THUGPET" Imagefile="media/ui/icons/pets/THUGPET.dds" NativeHorzRes="1024" NativeVertRes="768" AutoScaled="true" >
+	<Image Name="thugaiconselected" XPos="0" YPos="0" Width="128" Height="128" />
+	<Image Name="thugaiconhover" XPos="128" YPos="0" Width="128" Height="128" />
+	<Image Name="thugaicon" XPos="256" YPos="0" Width="128" Height="128" />
+	<Image Name="meataicon" XPos="416" YPos="32" Width="64" Height="64" />
+	<Image Name="thugbiconselected" XPos="0" YPos="128" Width="128" Height="128" />
+	<Image Name="thugbiconhover" XPos="128" YPos="128" Width="128" Height="128" />
+	<Image Name="thugbicon" XPos="256" YPos="128" Width="128" Height="128" />
+	<Image Name="meatbicon" XPos="416" YPos="159" Width="64" Height="64" />
+	<Image Name="thugciconselected" XPos="0" YPos="256" Width="128" Height="128" />
+	<Image Name="thugciconhover" XPos="128" YPos="256" Width="128" Height="128" />
+	<Image Name="thugcicon" XPos="256" YPos="256" Width="128" Height="128" />
+	<Image Name="meatcicon" XPos="416" YPos="287" Width="64" Height="64" />
+</Imageset>

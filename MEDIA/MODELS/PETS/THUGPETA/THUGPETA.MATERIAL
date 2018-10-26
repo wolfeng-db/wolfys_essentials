@@ -1,0 +1,18 @@
+material ThugPetMat
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.588 0.588 0.588
+			diffuse 0.588 0.588 0.588
+			specular 0 0 0 0
+			emissive 0.4 0.4 0.4
+			alpha_rejection greater 5
+			texture_unit
+			{
+				texture ../THUGPET_TEX/Storm_Merc_HvH_ThugPet_Diff.dds
+			}
+		}
+	}
+}
