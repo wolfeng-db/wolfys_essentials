@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Imageset Name= "Pet_HobSprite" Imagefile="media/ui/icons/pets/Pet_HobSprite.dds" NativeHorzRes="1024" NativeVertRes="768" AutoScaled="true" >
+	<Image Name="pethobspriteiconselected" XPos="0" YPos="0" Width="128" Height="128" />
+	<Image Name="pethobspriteiconhover" XPos="128" YPos="0" Width="128" Height="128" />
+	<Image Name="pethobspriteicon" XPos="256" YPos="0" Width="128" Height="128" />
+</Imageset>
