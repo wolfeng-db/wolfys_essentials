@@ -1,0 +1,17 @@
+material roll_rock_01_mat
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.278431 0.239216 0.160784
+			diffuse 0.278431 0.239216 0.160784
+			specular 0 0 0 0
+			emissive 0 0 0
+			texture_unit
+			{
+				texture ..\roll_rocks_01\roll_rocks_01.png
+			}
+		}
+	}
+}
