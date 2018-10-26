@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Imageset Name= "TIIUI" Imagefile="media/ui/hud/TIIUI.dds" NativeHorzRes="1024" NativeVertRes="768" AutoScaled="true" >
+	<Image Name="ig_famebar_bar" XPos="1" YPos="1" Width="591" Height="5" />
+	<Image Name="ig_famebar_bar_halfright" XPos="594" YPos="1" Width="296" Height="5" />
+	<Image Name="ig_famebar_bar_halfleft" XPos="1" YPos="8" Width="296" Height="5" />
+	<Image Name="ig_experiencebar_bar_halfright" XPos="299" YPos="8" Width="296" Height="5" />
+	<Image Name="ig_experiencebar_bar_halfleft" XPos="597" YPos="8" Width="296" Height="5" />
+	<Image Name="ig_attribute_stat_vitality_rollover" XPos="895" YPos="8" Width="50" Height="50" />
+	<Image Name="ig_attribute_stat_vitality_clicked" XPos="947" YPos="8" Width="50" Height="50" />
+	<Image Name="ig_attribute_stat_vitality" XPos="1" YPos="15" Width="50" Height="50" />
+	<Image Name="ig_attribute_stat_strength_rollover" XPos="53" YPos="15" Width="50" Height="50" />
+	<Image Name="ig_attribute_stat_strength_clicked" XPos="105" YPos="15" Width="50" Height="50" />
+	<Image Name="ig_attribute_stat_strength" XPos="157" YPos="15" Width="50" Height="50" />
+	<Image Name="ig_attribute_stat_focus_rollover" XPos="209" YPos="15" Width="50" Height="50" />
+	<Image Name="ig_attribute_stat_focus_clicked" XPos="261" YPos="15" Width="50" Height="50" />
+	<Image Name="ig_attribute_stat_focus" XPos="313" YPos="15" Width="50" Height="50" />
+	<Image Name="ig_attribute_stat_dexterity_rollover" XPos="365" YPos="15" Width="50" Height="50" />
+	<Image Name="ig_attribute_stat_dexterity_clicked" XPos="417" YPos="15" Width="50" Height="50" />
+	<Image Name="ig_attribute_stat_dexterity" XPos="469" YPos="15" Width="50" Height="50" />
+	<Image Name="ig_stash_icon_rollover" XPos="521" YPos="15" Width="42" Height="43" />
+	<Image Name="ig_stash_icon" XPos="565" YPos="15" Width="42" Height="43" />
+	<Image Name="ig_equipswapw_rollover" XPos="609" YPos="15" Width="36" Height="31" />
+	<Image Name="ig_equipswapw_clicked" XPos="647" YPos="15" Width="36" Height="31" />
+	<Image Name="ig_equipswapw" XPos="685" YPos="15" Width="36" Height="31" />
+	<Image Name="ig_equipswapa_rollover" XPos="723" YPos="15" Width="36" Height="31" />
+	<Image Name="ig_equipswapa_clicked" XPos="761" YPos="15" Width="36" Height="31" />
+	<Image Name="ig_equipswapa" XPos="799" YPos="15" Width="36" Height="31" />
+</Imageset>
