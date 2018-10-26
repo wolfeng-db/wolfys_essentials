@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Imageset Name= "pet_baby" Imagefile="media/ui/icons/pets/pet_baby.dds" NativeHorzRes="1024" NativeVertRes="768" AutoScaled="true" >
+	<Image Name="pet_babyiconselected" XPos="0" YPos="0" Width="128" Height="128" />
+	<Image Name="pet_babyiconhover" XPos="128" YPos="0" Width="128" Height="128" />
+	<Image Name="pet_babyicon" XPos="0" YPos="128" Width="128" Height="128" />
+</Imageset>
