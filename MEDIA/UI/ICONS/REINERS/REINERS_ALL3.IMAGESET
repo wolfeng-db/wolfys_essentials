@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Imageset Name= "reiners_all3" Imagefile="media/ui/icons/reiners/reiners_all3.dds" NativeHorzRes="1024" NativeVertRes="768" AutoScaled="true" >
+	<Image Name="icon_anubis_pants" XPos="1" YPos="1" Width="62" Height="62" />
+	<Image Name="icon_anubis_boots" XPos="64" YPos="1" Width="62" Height="62" />
+	<Image Name="icon_anubis_gloves" XPos="128" YPos="1" Width="62" Height="62" />
+	<Image Name="icon_anubis_necklace" XPos="192" YPos="1" Width="62" Height="62" />
+	<Image Name="icon_anubis_ring01" XPos="256" YPos="1" Width="62" Height="62" />
+	<Image Name="icon_anubis_ring02" XPos="320" YPos="1" Width="62" Height="62" />
+	<Image Name="icon_anubis_dna" XPos="384" YPos="1" Width="62" Height="62" />
+</Imageset>

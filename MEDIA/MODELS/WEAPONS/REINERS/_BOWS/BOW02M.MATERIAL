@@ -1,0 +1,17 @@
+material bow02_mat
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.72549 0.72549 0.72549
+			diffuse 0.72549 0.72549 0.72549
+			specular 0 0 0 0
+			emissive 0.407843 0.407843 0.407843
+			texture_unit
+			{
+				texture bow02m.dds
+			}
+		}
+	}
+}
