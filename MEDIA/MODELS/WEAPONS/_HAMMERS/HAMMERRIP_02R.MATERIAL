@@ -1,0 +1,51 @@
+material Material__187
+{
+        technique
+        {
+                pass
+                {
+                        ambient 1.000000 1.000000 1.000000
+                        diffuse 0.588000 0.588000 0.588000
+                        specular 0.000000 0.000000 0.000000 0
+                        emissive 0.000000 0.000000 0.000000
+                        texture_unit
+                        {
+                                texture HAMMERRIP_02.png
+                        }
+                }
+        }
+}
+material Material__189
+{
+        technique
+        {
+                pass
+                {
+                        ambient 1.000000 1.000000 1.000000
+                        diffuse 0.588000 0.588000 0.588000
+                        specular 0.000000 0.000000 0.000000 0
+                        emissive 0.000000 0.000000 0.000000
+                        texture_unit
+                        {
+                                texture HAMMERRIP_02.png
+                        }
+                }
+        }
+}
+material Material__218
+{
+        technique
+        {
+                pass
+                {
+                        ambient 1.000000 1.000000 1.000000
+                        diffuse 0.588000 0.588000 0.588000
+                        specular 0.000000 0.000000 0.000000 0
+                        emissive 0.000000 0.000000 0.000000
+                        texture_unit
+                        {
+                                texture HAMMERRIP_02.png
+                        }
+                }
+        }
+}
