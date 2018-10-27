@@ -11,6 +11,7 @@ Changes to the interface, new items and more.
 - Clear and hideable options
 - Savable quest HUD state
 - Smart panel tabs toggle
+- Hud Expanse
 - Quit without confirmation
 - Loading screens Maps + Creatures
 - Unique Beams
