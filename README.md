@@ -50,7 +50,6 @@ Changes to the interface, new items and more.
 - Logan's Gift
 - Swamp Things
 - Final Fantasy Weapons Revised
-- Eye for Trouble
 - Boss Spells
 - Unlock all spellS (merged with spells redux)
 
