@@ -25,6 +25,8 @@ Changes to the interface, new items and more.
 ### MAP CHANGES
 - Blank Landmarks
 - Extra Chunky
+- Abysm
+- Toy Collector (removed town merchant and mapworks merchants now sells spells instead)
 - Fishing add-on
 - Remastered Lighting
 - Draw Distance (Done Right)
