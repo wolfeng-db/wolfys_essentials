@@ -43,6 +43,8 @@ Changes to the interface, new items and more.
 - Traps Hurt Redux
 - Wand Homing Projectiles
 - Elixirs of Power
+- Raxz Gameplay Tweaks
+    - Only the fame ranks and fame/gold increase with difficulty. 
 - Golden Chests with uniques - light version
     - Had a double entry for uniques, now it should be 50/50 for a guaranteed unique. 
     - The chests still retain their original loot table so you could end up with two uniques dropping.
