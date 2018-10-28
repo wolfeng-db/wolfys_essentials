@@ -45,9 +45,6 @@ Changes to the interface, new items and more.
 - Elixirs of Power
 - Raxz Gameplay Tweaks
     - Only the fame ranks and fame/gold increase with difficulty. 
-- Golden Chests with uniques - light version
-    - Had a double entry for uniques, now it should be 50/50 for a guaranteed unique. 
-    - The chests still retain their original loot table so you could end up with two uniques dropping.
 - Enchantable Pet Accesories
     - Merged sound changes from Better Vanilla.
 - Daylight robbery (edits from rt gameplay minus the respec potions)
@@ -59,6 +56,8 @@ Changes to the interface, new items and more.
     - Somewhat lowered the number of drops from armor and weapon racks (though they still generate much more loot than default).
 - Embergem upgrades (edits from rt gameplay)
     - Removed the recipe for SKULLS AND RARE GEMS
+- Personal changes:
+    - Increased magic find bonus in golden chests and number of gold coins dropped.
 
 ### GEAR AND SPELLS
 - Extra Endgame Content
