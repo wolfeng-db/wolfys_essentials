@@ -34,7 +34,7 @@ Changes to the interface, new items and more.
 - Abysm
     Removed zoom map changes in favor of those from Draw Distance Done Right.
 - Toy Collector
-    Removed town merchant and Chew now sells the inventory from the Lost Spirit mod.
+    Removed town merchant and Chew now sells the inventory from the Lost Spirit mod (just don't try to sell items, there's no buy back function)
 
 ### GAMEPLAY CHANGES
 - 8 Player MP
