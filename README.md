@@ -61,3 +61,10 @@ Changes to the interface, new items and more.
 - Beholder Invasion Pet
 - Flying Books Pets
 - Hobsprite Pet
+
+### MODS I'M CONSIDERING
+- Equipment slot overhaul
+    Need a version compatible with Inventory Upgrade but without the brother-in-arms support since they are sold when sending pet to town. 
+
+- Hardcore Lite
+    Fantastic idea but is currently incompatible with Ultimate Respec Lite.
