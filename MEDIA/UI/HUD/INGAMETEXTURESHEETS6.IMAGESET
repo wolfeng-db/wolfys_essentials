@@ -60,6 +60,7 @@
 	<Image Name="quality_overlay_rare" XPos="465" YPos="155" Width="48" Height="48" />
 	<Image Name="quality_overlay_quest" XPos="515" YPos="155" Width="48" Height="48" />
 	<Image Name="quality_overlay_magical" XPos="692" YPos="159" Width="48" Height="48" />
+	<Image Name="quality_overlay_legendary" XPos="585" YPos="151" Width="48" Height="48" />
 	<Image Name="ig_wardrobe_icon_tags_rollover" XPos="742" YPos="159" Width="47" Height="47" />
 	<Image Name="ig_wardrobe_icon_tags_restricted" XPos="791" YPos="159" Width="47" Height="47" />
 	<Image Name="ig_wardrobe_icon_tags" XPos="840" YPos="159" Width="47" Height="47" />
