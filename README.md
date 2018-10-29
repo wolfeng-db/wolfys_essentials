@@ -47,13 +47,15 @@ Changes to the interface, new items and more.
     - Only the fame ranks and fame/gold increase with difficulty. 
 - Enchantable Pet Accesories
     - Merged sound changes from Better Vanilla.
-- Daylight robbery (edits from rt gameplay minus the respec potions)
+- Daylight robbery (edits from rt gameplay and some personal)
     - Removed the floor numbers change for the ACT II cave that was in daylight robbery.
     - Lowered rate of return on checking ROCK PILES and fish urns.
     - Lowered chances of splintered boards spawning more splintered boards.
     - Weakened the chances for uniques to drop from treasures closer to normal. Reverted small chests to original state.
     - Lowered chances for weapon and armor drop rates for normal and champion monsters.
     - Somewhat lowered the number of drops from armor and weapon racks (though they still generate much more loot than default).
+    - removed respec potions
+    - removed rejuvenation potions
 - Embergem upgrades (edits from rt gameplay)
     - Removed the recipe for SKULLS AND RARE GEMS
 - Personal changes:
