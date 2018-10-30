@@ -43,6 +43,8 @@ Changes to the interface, new items and more.
 - Traps Hurt Redux
 - Wand Homing Projectiles
 - Elixirs of Power
+- Vendor Boon
+    - removed legendaries being sold
 - Raxz Gameplay Tweaks
     - Only the fame ranks and fame/gold increase with difficulty. 
 - Enchantable Pet Accesories
@@ -58,8 +60,6 @@ Changes to the interface, new items and more.
     - removed rejuvenation potions
 - Embergem upgrades (edits from rt gameplay)
     - Removed the recipe for SKULLS AND RARE GEMS
-- Personal changes:
-    - Increased magic find bonus in golden chests and number of gold coins dropped.
 
 ### GEAR AND SPELLS
 - Extra Endgame Content
@@ -82,7 +82,12 @@ Changes to the interface, new items and more.
 - Flying Books Pets
     - Minor edit of their internal names so they sort at the end of the pet list
 
-### MAYBE IN THE FUTURE
+### PERSONAL CHANGES
+    - Increased magic find bonus in golden chests and number of gold coins dropped.
+    - Increase mana regen to 5% and health regen from 0 to 0.5
+    - Some changes to the weight of magic items and up so they drop a bit more. 
+
+### MAYBE IN THE FUTURE or maybe standalone
 - Equipment slot overhaul EC
     Brother-in-arms support doesn't seem to be working, smart tabs is on by default and can't see a way to disable with Inventory Upgrade. 
     Would need a version compatible with just inventory upgrade. 
