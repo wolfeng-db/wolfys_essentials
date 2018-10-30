@@ -23,6 +23,7 @@ Changes to the interface, new items and more.
 - Champion names (edits from rt improvements)
     - Lowered the rate of Appellations to 1 in 4 - half the chance of the original mod.
 - better blood effects
+- more gibs (replacing some files from betterbloodeffects)
 
 ### MAP CHANGES
 - Draw Distance (Done Right)
