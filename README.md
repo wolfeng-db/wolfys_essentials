@@ -65,7 +65,7 @@ Changes to the interface, new items and more.
 - Extra Endgame Content
 - Legendaries Weapons Update
 - Arkham's & Ripper's Armory
-- Ancient Items
+- Ancient Items (removed the colored names)
 - Reiners Gears1
 - Logan's Gift
 - Swamp Things
