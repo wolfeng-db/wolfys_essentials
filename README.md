@@ -90,7 +90,7 @@ Changes to the interface, new items and more.
 ### MAYBE IN THE FUTURE or maybe standalone
 - Equipment slot overhaul EC
     Brother-in-arms support doesn't seem to be working, smart tabs is on by default and can't see a way to disable with Inventory Upgrade. 
-    Would need a version compatible with just inventory upgrade. 
+    Would need a version compatible with just inventory upgrade (maybe that extra large shared stash)
 
 - Hardcore Lite
     Currently incompatible with Ultimate Respec Lite.
