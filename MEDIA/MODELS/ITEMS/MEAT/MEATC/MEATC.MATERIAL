@@ -1,0 +1,38 @@
+material Material_#36
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.588 0.588 0.588
+			diffuse 0.588 0.588 0.588
+			specular 0 0 0 0
+			emissive 0 0 0
+			texture_unit
+			{
+				texture ../MEAT_TEX/MEAT_01.dds
+			}
+		}
+	}
+}
+material Material_#35
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.588 0.588 0.588
+			diffuse 0.588 0.588 0.588
+			specular 0 0 0 0
+			emissive 0 0 0
+
+			alpha_rejection greater 70
+			cull_hardware none
+
+			texture_unit
+			{
+				texture ../MEAT_TEX/MEAT_02.dds
+			}
+		}
+	}
+}

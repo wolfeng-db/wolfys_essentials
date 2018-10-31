@@ -1,0 +1,437 @@
+material HuF_wanderer_01_multi/Chest
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.588 0.588 0.588
+			diffuse 0.588 0.588 0.588
+			specular 0 0 0 0
+			emissive 0.4 0.4 0.4
+			texture_unit
+			{
+				texture hu_wanderer_01_chest.png
+			}
+		}
+	}
+}
+material HuF_wanderer_01_multi/ExChest
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.588 0.588 0.588
+			diffuse 0.588 0.588 0.588
+			specular 0 0 0 0
+			emissive 0.4 0.4 0.4
+			texture_unit
+			{
+				texture Body.png
+			}
+		}
+	}
+}
+material HuF_wanderer_01_multi/Belt
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.588 0.588 0.588
+			diffuse 0.588 0.588 0.588
+			specular 0 0 0 0
+			emissive 0.4 0.4 0.4
+			scene_blend alpha_blend
+			alpha_rejection greater 200
+			texture_unit
+			{
+				texture hu_wanderer_01_extra.png
+			}
+		}
+	}
+}
+material HuF_wanderer_01_multi/Thighs
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.588 0.588 0.588
+			diffuse 0.588 0.588 0.588
+			specular 0 0 0 0
+			emissive 0.4 0.4 0.4
+			texture_unit
+			{
+				texture HuF_wanderer_01_pant.png
+			}
+		}
+	}
+}
+material HuF_wanderer_01_multi/MidLeg
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.588 0.588 0.588
+			diffuse 0.588 0.588 0.588
+			specular 0 0 0 0
+			emissive 0.4 0.4 0.4
+			texture_unit
+			{
+				texture body.png
+			}
+		}
+	}
+}
+material HuF_wanderer_01_multi/ExMidLeg
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.588 0.588 0.588
+			diffuse 0.588 0.588 0.588
+			specular 0 0 0 0
+			emissive 0.4 0.4 0.4
+			scene_blend alpha_blend
+			alpha_rejection greater 200
+			texture_unit
+			{
+				texture hu_wanderer_01_extra.png
+			}
+		}
+	}
+}
+material HuF_wanderer_01_multi/Calf
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.588 0.588 0.588
+			diffuse 0.588 0.588 0.588
+			specular 0 0 0 0
+			emissive 0.4 0.4 0.4
+			texture_unit
+			{
+				texture hu_wanderer_01_boot.png
+			}
+		}
+	}
+}
+material HuF_wanderer_01_multi/ExCalf
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.588 0.588 0.588
+			diffuse 0.588 0.588 0.588
+			specular 0 0 0 0
+			emissive 0.4 0.4 0.4
+			scene_blend alpha_blend
+			alpha_rejection greater 200
+			texture_unit
+			{
+				texture hu_wanderer_01_extra.png
+			}
+		}
+	}
+}
+material HuF_wanderer_01_multi/Foot
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.588 0.588 0.588
+			diffuse 0.588 0.588 0.588
+			specular 0 0 0 0
+			emissive 0.4 0.4 0.4
+			texture_unit
+			{
+				texture hu_wanderer_01_boot.png
+			}
+		}
+	}
+}
+material HuF_wanderer_01_multi/ExFoot
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.588 0.588 0.588
+			diffuse 0.588 0.588 0.588
+			specular 0 0 0 0
+			emissive 0.4 0.4 0.4
+			texture_unit
+			{
+				texture Body.png
+			}
+		}
+	}
+}
+material HuF_wanderer_01_multi/MidArm
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.588 0.588 0.588
+			diffuse 0.588 0.588 0.588
+			specular 0 0 0 0
+			emissive 0.4 0.4 0.4
+			texture_unit
+			{
+				texture Hu_wanderer_01_glove.png
+			}
+		}
+	}
+}
+material HuF_wanderer_01_multi/EXMidArm
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.588 0.588 0.588
+			diffuse 0.588 0.588 0.588
+			specular 0 0 0 0
+			emissive 0.4 0.4 0.4
+			texture_unit
+			{
+				texture Hu_wanderer_01_extra.png
+			}
+		}
+	}
+}
+material HuF_wanderer_01_multi/Forearm
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.588 0.588 0.588
+			diffuse 0.588 0.588 0.588
+			specular 0 0 0 0
+			emissive 0.4 0.4 0.4
+			texture_unit
+			{
+				texture Hu_wanderer_01_glove.png
+			}
+		}
+	}
+}
+material HuF_wanderer_01_multi/ExForearm
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.588 0.588 0.588
+			diffuse 0.588 0.588 0.588
+			specular 0 0 0 0
+			emissive 0.4 0.4 0.4
+			scene_blend alpha_blend
+			alpha_rejection greater 200
+			texture_unit
+			{
+				texture Hu_wanderer_01_extra.png
+			}
+		}
+	}
+}
+material HuF_wanderer_01_multi/Hand
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.588 0.588 0.588
+			diffuse 0.588 0.588 0.588
+			specular 0 0 0 0
+			emissive 0.4 0.4 0.4
+			texture_unit
+			{
+				texture Hu_wanderer_01_glove.png
+			}
+		}
+	}
+}
+material HuF_wanderer_01_multi/EXHand
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.588 0.588 0.588
+			diffuse 0.588 0.588 0.588
+			specular 0 0 0 0
+			emissive 0.4 0.4 0.4
+			scene_blend alpha_blend
+			alpha_rejection greater 200
+			texture_unit
+			{
+				texture Hu_wanderer_01_extra.png
+			}
+		}
+	}
+}
+material HuF_wanderer_01_multi/Pauldrons
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.588 0.588 0.588
+			diffuse 0.588 0.588 0.588
+			specular 0 0 0 0
+			emissive 0.4 0.4 0.4
+			scene_blend alpha_blend
+			alpha_rejection greater 200
+			texture_unit
+			{
+				texture Hu_wanderer_01_extra.png
+			}
+		}
+	}
+}
+material HuF_wanderer_01_multi/Helmet
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.588 0.588 0.588
+			diffuse 0.588 0.588 0.588
+			specular 0 0 0 0
+			emissive 0.4 0.4 0.4
+			texture_unit
+			{
+				texture Body.png
+			}
+		}
+	}
+}
+material HuF_wanderer_01_multi/Eyes
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.588 0.588 0.588
+			diffuse 0.588 0.588 0.588
+			specular 0 0 0 0
+			emissive 0.4 0.4 0.4
+			texture_unit
+			{
+				texture body.png
+			}
+		}
+	}
+}
+material HuF_wanderer_01_multi/Jaw
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.588 0.588 0.588
+			diffuse 0.588 0.588 0.588
+			specular 0 0 0 0
+			emissive 0.4 0.4 0.4
+			texture_unit
+			{
+				texture Body.png
+			}
+		}
+	}
+}
+material HuF_wanderer_01_multi/JawSide
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.588 0.588 0.588
+			diffuse 0.588 0.588 0.588
+			specular 0 0 0 0
+			emissive 0.4 0.4 0.4
+			texture_unit
+			{
+				texture Body.png
+			}
+		}
+	}
+}
+material HuF_wanderer_01_multi/Hair
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.588 0.588 0.588
+			diffuse 0.588 0.588 0.588
+			specular 0 0 0 0
+			emissive 0.4 0.4 0.4
+			texture_unit
+			{
+				texture hair1_brown.png
+			}
+		}
+	}
+}
+material HuF_wanderer_01_multi/Scalp
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.588 0.588 0.588
+			diffuse 0.588 0.588 0.588
+			specular 0 0 0 0
+			emissive 0.4 0.4 0.4
+			texture_unit
+			{
+				texture body.png
+			}
+		}
+	}
+}
+material HuF_wanderer_01_multi/Ears
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.588 0.588 0.588
+			diffuse 0.588 0.588 0.588
+			specular 0 0 0 0
+			emissive 0.4 0.4 0.4
+			texture_unit
+			{
+				texture body.png
+			}
+		}
+	}
+}
+material HuF_wanderer_01_multi/Guild
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.588 0.588 0.588
+			diffuse 0.588 0.588 0.588
+			specular 0 0 0 0
+			emissive 0.4 0.4 0.4
+			texture_unit
+			{
+				texture Body.png
+			}
+		}
+	}
+}

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Imageset Name= "royal_armory" Imagefile="media/ui/icons/weapons/arkhams_armory_icons.dds" NativeHorzRes="1024" NativeVertRes="768" AutoScaled="true" >
+	<Image Name="ryl_axe" XPos="1" YPos="1" Width="62" Height="62" />
+	<Image Name="ryl_falch" XPos="65" YPos="1" Width="62" Height="62" />
+	<Image Name="ryl_bow" XPos="129" YPos="1" Width="62" Height="62" />
+	<Image Name="ryl_hamm" XPos="193" YPos="1" Width="62" Height="62" />
+	<Image Name="ryl_wand" XPos="257" YPos="1" Width="62" Height="62" />
+	<Image Name="sb_blade" XPos="321" YPos="1" Width="62" Height="62" />
+	<Image Name="sb_shield" XPos="385" YPos="1" Width="62" Height="62" />
+	<Image Name="scifi_turkey" XPos="449" YPos="1" Width="62" Height="62" />
+
+	<Image Name="ryl_staff" XPos="1" YPos="65" Width="62" Height="62" />
+	<Image Name="ryl_glaive" XPos="65" YPos="65" Width="62" Height="62" />
+	<Image Name="ryl_xbow" XPos="129" YPos="65" Width="62" Height="62" />
+	<Image Name="ryl_shotg" XPos="193" YPos="65" Width="62" Height="62" />
+	<Image Name="ryl_pist" XPos="257" YPos="65" Width="62" Height="62" />
+	<Image Name="chswd_imp" XPos="321" YPos="65" Width="62" Height="62" />
+	<Image Name="chswd_chs" XPos="385" YPos="65" Width="62" Height="62" />
+	<Image Name="chswd_glaive" XPos="449" YPos="65" Width="62" Height="62" />
+
+	<Image Name="ryl_cann" XPos="1" YPos="129" Width="62" Height="62" />
+	<Image Name="ryl_gswd" XPos="65" YPos="129" Width="62" Height="62" />
+	<Image Name="ryl_ghamm" XPos="129" YPos="129" Width="62" Height="62" />
+	<Image Name="ryl_gaxe" XPos="193" YPos="129" Width="62" Height="62" />
+	<Image Name="ryl_bfist" XPos="257" YPos="129" Width="62" Height="62" />
+	<Image Name="evisc_minist" XPos="321" YPos="129" Width="62" Height="62" />
+	<Image Name="evisc_sob" XPos="385" YPos="129" Width="62" Height="62" />
+	<Image Name="chswd_clock" XPos="449" YPos="129" Width="62" Height="62" />
+	
+	<Image Name="shield_ek" XPos="1" YPos="193" Width="62" Height="62" />
+	<Image Name="keening" XPos="65" YPos="193" Width="62" Height="62" />
+	<Image Name="chaoseater" XPos="129" YPos="193" Width="62" Height="62" />
+
+</Imageset>

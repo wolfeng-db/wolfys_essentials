@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Imageset Name= "IU_Sheets" Imagefile="media/ui/hud/iu_sheets.dds" NativeHorzRes="512" NativeVertRes="1024" AutoScaled="true" >
+	<Image Name="IU_armor_selected" XPos="0" YPos="0" Width="53" Height="47" />
+	<Image Name="IU_armor_selected_rollover" XPos="53" YPos="0" Width="53" Height="47" />
+	<Image Name="IU_armor_unselected" XPos="106" YPos="8" Width="53" Height="39" />
+	<Image Name="IU_armor_unselected_rollover" XPos="159" YPos="8" Width="53" Height="39" />
+	<Image Name="IU_consumables_selected" XPos="0" YPos="47" Width="53" Height="47" />
+	<Image Name="IU_consumables_selected_rollover" XPos="53" YPos="47" Width="53" Height="47" />
+	<Image Name="IU_consumables_unselected" XPos="106" YPos="55" Width="53" Height="39" />
+	<Image Name="IU_consumables_unselected_rollover" XPos="159" YPos="55" Width="53" Height="39" />
+	<Image Name="IU_list_selected" XPos="0" YPos="94" Width="53" Height="47" />
+	<Image Name="IU_list_selected_rollover" XPos="53" YPos="94" Width="53" Height="47" />
+	<Image Name="IU_list_unselected" XPos="106" YPos="102" Width="53" Height="39" />
+	<Image Name="IU_list_unselected_rollover" XPos="159" YPos="102" Width="53" Height="39" />
+	<Image Name="IU_socketable_selected" XPos="0" YPos="141" Width="53" Height="47" />
+	<Image Name="IU_socketable_selected_rollover" XPos="53" YPos="141" Width="53" Height="47" />
+	<Image Name="IU_socketable_unselected" XPos="106" YPos="149" Width="53" Height="39" />
+	<Image Name="IU_socketable_unselected_rollover" XPos="159" YPos="149" Width="53" Height="39" />
+	<Image Name="IU_spell_selected" XPos="0" YPos="188" Width="53" Height="47" />
+	<Image Name="IU_spell_selected_rollover" XPos="53" YPos="188" Width="53" Height="47" />
+	<Image Name="IU_spell_unselected" XPos="106" YPos="196" Width="53" Height="39" />
+	<Image Name="IU_spell_unselected_rollover" XPos="159" YPos="196" Width="53" Height="39" />
+	<Image Name="IU_weapon_selected" XPos="0" YPos="235" Width="53" Height="47" />
+	<Image Name="IU_weapon_selected_rollover" XPos="53" YPos="235" Width="53" Height="47" />
+	<Image Name="IU_weapon_unselected" XPos="106" YPos="243" Width="53" Height="39" />
+	<Image Name="IU_weapon_unselected_rollover" XPos="159" YPos="243" Width="53" Height="39" />
+	<Image Name="IU_player_stash" XPos="0" YPos="309" Width="510" Height="715" />
+</Imageset>

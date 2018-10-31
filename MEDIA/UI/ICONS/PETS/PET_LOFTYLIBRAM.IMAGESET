@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Imageset Name= "zBook_LoftyLibram" Imagefile="media/ui/icons/pets/pet_LoftyLibram.dds" NativeHorzRes="1024" NativeVertRes="768" AutoScaled="true" >
+	<Image Name="LoftyLibramiconselected" XPos="0" YPos="0" Width="128" Height="128" />
+	<Image Name="LoftyLibramiconhover" XPos="128" YPos="0" Width="128" Height="128" />
+	<Image Name="LoftyLibramicon" XPos="256" YPos="0" Width="128" Height="128" />
+</Imageset>

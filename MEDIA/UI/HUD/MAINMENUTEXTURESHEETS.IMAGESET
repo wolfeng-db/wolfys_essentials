@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Imageset Name= "MainMenuTextureSheets" Imagefile="media/ui/hud/mainmenutexturesheets.dds" NativeHorzRes="1024" NativeVertRes="768" AutoScaled="true" >
+	<Image Name="mainmenu_letterboxing_top_2x1_0" XPos="1" YPos="1" Width="1022" Height="146" />
+	<Image Name="mainmenu_letterboxing_bottom_2x1_0" XPos="1" YPos="149" Width="1022" Height="136" />
+	<Image Name="mainmenu_logo" XPos="1" YPos="287" Width="616" Height="216" />
+	<Image Name="runiclogolarge" XPos="619" YPos="287" Width="100" Height="133" />
+	<Image Name="runiclogosmall" XPos="721" YPos="287" Width="48" Height="64" />
+	<Image Name="mainmenu_video_box" XPos="771" YPos="287" Width="40" Height="40" />
+	<Image Name="mainmenu_videot_box_rollover" XPos="813" YPos="287" Width="40" Height="40" />
+	<Image Name="mainmenu_settings_box_rollover" XPos="855" YPos="287" Width="40" Height="40" />
+	<Image Name="mainmenu_settings_box" XPos="897" YPos="287" Width="40" Height="40" />
+	<Image Name="mainmenu_quit_box_rollover" XPos="939" YPos="287" Width="40" Height="40" />
+	<Image Name="mainmenu_quit_box" XPos="981" YPos="287" Width="40" Height="40" />
+	<Image Name="mainmenu_credits_box" XPos="771" YPos="329" Width="40" Height="40" />
+	<Image Name="mainmenu_creditst_box_rollover" XPos="813" YPos="329" Width="40" Height="40" />
+	<Image Name="mainmenu_letterboxing_top_2x1_1" XPos="855" YPos="329" Width="2" Height="146" />
+	<Image Name="mainmenu_letterboxing_bottom_2x1_1" XPos="859" YPos="329" Width="2" Height="136" />
+</Imageset>

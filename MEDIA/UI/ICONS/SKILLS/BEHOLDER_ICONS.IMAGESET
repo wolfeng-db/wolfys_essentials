@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Imageset Name= "beholder_icons" Imagefile="media/ui/icons/skills/beholder_icons.dds" NativeHorzRes="1024" NativeVertRes="768" AutoScaled="true" >
+	<Image Name="dead_eye" XPos="0" YPos="0" Width="64" Height="64" />
+	<Image Name="beholder_tooth" XPos="64" YPos="0" Width="64" Height="64" />
+	<Image Name="beholder" XPos="128" YPos="0" Width="64" Height="64" />
+	<Image Name="book_beholder" XPos="0" YPos="64" Width="64" Height="64" />
+	<Image Name="book_greater_beholder" XPos="64" YPos="64" Width="64" Height="64" />
+	<Image Name="greater_beholder" XPos="128" YPos="64" Width="64" Height="64" />
+	</Imageset>

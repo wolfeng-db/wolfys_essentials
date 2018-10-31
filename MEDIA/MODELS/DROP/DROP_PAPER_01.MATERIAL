@@ -1,0 +1,17 @@
+material Material__26.002
+{
+        technique
+        {
+                pass
+                {
+                ambient 0.588000 0.588000 0.588000
+                diffuse 0.588000 0.588000 0.588000
+                specular 0.000000 0.000000 0.000000 0
+                emissive 0.407843 0.407843 0.407843
+                        texture_unit
+                        {
+                                texture drop_paper_tex.dds
+                        }
+                }
+        }
+}

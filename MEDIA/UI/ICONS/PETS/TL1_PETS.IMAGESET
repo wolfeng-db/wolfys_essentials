@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Imageset Name= "TL1_PETS_ICONS" Imagefile="media/ui/icons/pets/TL1_PETS.dds" 
+NativeHorzRes="1024" NativeVertRes="768" AutoScaled="true" >
+	<Image Name="tl1_caticonselected" XPos="0" YPos="0" Width="128" Height="128" />
+	<Image Name="tl1_caticonhover" XPos="128" YPos="0" Width="128" Height="128" />
+	<Image Name="tl1_caticon" XPos="256" YPos="0" Width="128" Height="128" />
+	<Image Name="tl1_deadrat_icon" XPos="415" YPos="30" Width="64" Height="64" />
+	<Image Name="tl1_dogiconselected" XPos="0" YPos="128" Width="128" Height="128" />
+	<Image Name="tl1_dogiconhover" XPos="128" YPos="128" Width="128" Height="128" />
+	<Image Name="tl1_dogicon" XPos="256" YPos="128" Width="128" Height="128" />
+	<Image Name="tl1_bone_icon" XPos="415" YPos="158" Width="64" Height="64" />
+</Imageset>

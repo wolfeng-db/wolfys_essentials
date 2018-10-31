@@ -1,0 +1,435 @@
+material HuF_medium_D/Chest
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.588 0.588 0.588
+			diffuse 0.588 0.588 0.588
+			specular 0 0 0 0
+			emissive 0.4 0.4 0.4
+			texture_unit
+			{
+				texture null_01.png
+			}
+		}
+	}
+}
+material HuF_medium_D/ExChest
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.588 0.588 0.588
+			diffuse 0.588 0.588 0.588
+			specular 0 0 0 0
+			emissive 0.4 0.4 0.4
+			texture_unit
+			{
+				texture null_01.png
+			}
+		}
+	}
+}
+material HuF_medium_D/Belt
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.588 0.588 0.588
+			diffuse 0.588 0.588 0.588
+			specular 0 0 0 0
+			emissive 0.4 0.4 0.4
+			scene_blend alpha_blend
+			alpha_rejection greater 200
+			texture_unit
+			{
+				texture Hu_medium_D_extra.png
+			}
+		}
+	}
+}
+material HuF_medium_D/Thighs
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.588 0.588 0.588
+			diffuse 0.588 0.588 0.588
+			specular 0 0 0 0
+			emissive 0.4 0.4 0.4
+			texture_unit
+			{
+				texture null_01.png
+			}
+		}
+	}
+}
+material HuF_medium_D/MidLeg
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.588 0.588 0.588
+			diffuse 0.588 0.588 0.588
+			specular 0 0 0 0
+			emissive 0.4 0.4 0.4
+			texture_unit
+			{
+				texture null_01.png
+			}
+		}
+	}
+}
+material HuF_medium_D/ExMidLeg
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.588 0.588 0.588
+			diffuse 0.588 0.588 0.588
+			specular 0 0 0 0
+			emissive 0.4 0.4 0.4
+			texture_unit
+			{
+				texture Hu_medium_D_extra.png
+			}
+		}
+	}
+}
+material HuF_medium_D/Calf
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.588 0.588 0.588
+			diffuse 0.588 0.588 0.588
+			specular 0 0 0 0
+			emissive 0.4 0.4 0.4
+			texture_unit
+			{
+				texture null_01.png
+			}
+		}
+	}
+}
+material HuF_medium_D/ExCalf
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.588 0.588 0.588
+			diffuse 0.588 0.588 0.588
+			specular 0 0 0 0
+			emissive 0.4 0.4 0.4
+			scene_blend alpha_blend
+			alpha_rejection greater 200
+			texture_unit
+			{
+				texture Hu_medium_D_extra.png
+			}
+		}
+	}
+}
+material HuF_medium_D/Foot
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.588 0.588 0.588
+			diffuse 0.588 0.588 0.588
+			specular 0 0 0 0
+			emissive 0.4 0.4 0.4
+			texture_unit
+			{
+				texture null_01.png
+			}
+		}
+	}
+}
+material HuF_medium_D/ExFoot
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.588 0.588 0.588
+			diffuse 0.588 0.588 0.588
+			specular 0 0 0 0
+			emissive 0.4 0.4 0.4
+			texture_unit
+			{
+				texture null_01.png
+			}
+		}
+	}
+}
+material HuF_medium_D/MidArm
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.588 0.588 0.588
+			diffuse 0.588 0.588 0.588
+			specular 0 0 0 0
+			emissive 0.4 0.4 0.4
+			texture_unit
+			{
+				texture null_01.png
+			}
+		}
+	}
+}
+material HuF_medium_D/ExMidArm
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.588 0.588 0.588
+			diffuse 0.588 0.588 0.588
+			specular 0 0 0 0
+			emissive 0.4 0.4 0.4
+			texture_unit
+			{
+				texture null_01.png
+			}
+		}
+	}
+}
+material HuF_medium_D/Forearm
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.588 0.588 0.588
+			diffuse 0.588 0.588 0.588
+			specular 0 0 0 0
+			emissive 0.4 0.4 0.4
+			texture_unit
+			{
+				texture null_01.png
+			}
+		}
+	}
+}
+material HuF_medium_D/ExForearm
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.588 0.588 0.588
+			diffuse 0.588 0.588 0.588
+			specular 0 0 0 0
+			emissive 0.4 0.4 0.4
+			scene_blend alpha_blend
+			alpha_rejection greater 200
+			texture_unit
+			{
+				texture Hu_medium_D_extra.png
+			}
+		}
+	}
+}
+material HuF_medium_D/Hand
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.588 0.588 0.588
+			diffuse 0.588 0.588 0.588
+			specular 0 0 0 0
+			emissive 0.4 0.4 0.4
+			texture_unit
+			{
+				texture null_01.png
+			}
+		}
+	}
+}
+material HuF_medium_D/EXHand
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.588 0.588 0.588
+			diffuse 0.588 0.588 0.588
+			specular 0 0 0 0
+			emissive 0.4 0.4 0.4
+			texture_unit
+			{
+				texture null_01.png
+			}
+		}
+	}
+}
+material HuF_medium_D/Pauldrons
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.588 0.588 0.588
+			diffuse 0.588 0.588 0.588
+			specular 0 0 0 0
+			emissive 0.4 0.4 0.4
+			scene_blend alpha_blend
+			alpha_rejection greater 200
+			texture_unit
+			{
+				texture Hu_medium_D_extra.png
+			}
+		}
+	}
+}
+material HuF_medium_D/Helmet
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.588 0.588 0.588
+			diffuse 0.588 0.588 0.588
+			specular 0 0 0 0
+			emissive 0.4 0.4 0.4
+			scene_blend alpha_blend
+			alpha_rejection greater 200
+			texture_unit
+			{
+				texture Hu_medium_D_extra.png
+			}
+		}
+	}
+}
+material HuF_medium_D/Eyes
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.588 0.588 0.588
+			diffuse 0.588 0.588 0.588
+			specular 0 0 0 0
+			emissive 0.4 0.4 0.4
+			texture_unit
+			{
+				texture null_01.png
+			}
+		}
+	}
+}
+material HuF_medium_D/Jaw
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.588 0.588 0.588
+			diffuse 0.588 0.588 0.588
+			specular 0 0 0 0
+			emissive 0.4 0.4 0.4
+			texture_unit
+			{
+				texture null_01.png
+			}
+		}
+	}
+}
+material HuF_medium_D/JawSide
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.588 0.588 0.588
+			diffuse 0.588 0.588 0.588
+			specular 0 0 0 0
+			emissive 0.4 0.4 0.4
+			texture_unit
+			{
+				texture null_01.png
+			}
+		}
+	}
+}
+material HuF_medium_D/Hair
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.588 0.588 0.588
+			diffuse 0.588 0.588 0.588
+			specular 0 0 0 0
+			emissive 0.4 0.4 0.4
+			texture_unit
+			{
+				texture null_01.png
+			}
+		}
+	}
+}
+material HuF_medium_D/Scalp
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.588 0.588 0.588
+			diffuse 0.588 0.588 0.588
+			specular 0 0 0 0
+			emissive 0.4 0.4 0.4
+			texture_unit
+			{
+				texture null_01.png
+			}
+		}
+	}
+}
+material HuF_medium_D/Ears
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.588 0.588 0.588
+			diffuse 0.588 0.588 0.588
+			specular 0 0 0 0
+			emissive 0.4 0.4 0.4
+			texture_unit
+			{
+				texture null_01.png
+			}
+		}
+	}
+}
+material HuF_medium_D/Guild
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.588 0.588 0.588
+			diffuse 0.588 0.588 0.588
+			specular 0 0 0 0
+			emissive 0.4 0.4 0.4
+			texture_unit
+			{
+				texture null_01.png
+			}
+		}
+	}
+}

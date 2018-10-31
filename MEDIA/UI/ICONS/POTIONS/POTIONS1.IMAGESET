@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Imageset Name= "POTIONS1" Imagefile="c:/steam/steamapps/common/torchlight ii/mods/logans legacy/media/ui/icons/potions/potions1.png" NativeHorzRes="1024" NativeVertRes="768" AutoScaled="true" >
+	<Image Name="rrpotions_2x2_0" XPos="1" YPos="1" Width="1022" Height="1022" />
+</Imageset>

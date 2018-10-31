@@ -1,0 +1,17 @@
+material greatsword04_mat
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.588235 0.588235 0.588235
+			diffuse 0.588235 0.588235 0.588235
+			specular 0 0 0 0
+			emissive 0.407843 0.407843 0.407843
+			texture_unit
+			{
+				texture greatsword04m.dds
+			}
+		}
+	}
+}

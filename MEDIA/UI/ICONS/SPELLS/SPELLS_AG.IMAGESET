@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Imageset Name= "spells_ag" Imagefile="media/ui/icons/spells/spells_ag.dds" NativeHorzRes="1024" NativeVertRes="768" AutoScaled="true" >
+	<Image Name="spell_missile_ag" XPos="1" YPos="200" Width="64" Height="64" />
+	<Image Name="fire_nova_ag" XPos="65" YPos="200" Width="64" Height="64" />
+	<Image Name="shock_spray_ag" XPos="130" YPos="200" Width="64" Height="64" />
+	<Image Name="sand_storm_ag" XPos="198" YPos="200" Width="64" Height="64" />
+	<Image Name="x_mana_missile_ag" XPos="265" YPos="200" Width="64" Height="64" />
+	<Image Name="crawler_im_ag" XPos="330" YPos="200" Width="64" Height="64" />
+	<Image Name="poison_lob_ag" XPos="395" YPos="200" Width="64" Height="64" />
+	<Image Name="flaming_dart_ag" XPos="460" YPos="200" Width="64" Height="64" />
+	<Image Name="poison_s_missile_ag" XPos="525" YPos="200" Width="64" Height="64" />
+	<Image Name="needles_ag" XPos="594" YPos="200" Width="64" Height="64" />
+</Imageset>

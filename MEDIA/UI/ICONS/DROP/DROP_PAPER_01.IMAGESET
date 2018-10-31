@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Imageset Name= "DROP_PAPER_01" Imagefile="media/ui/icons/drop/DROP_PAPER_01.dds" NativeHorzRes="1024" NativeVertRes="768" AutoScaled="true" >
+	<Image Name="DROP_PAPER_01" XPos="1" YPos="1" Width="62" Height="62" />
+</Imageset>

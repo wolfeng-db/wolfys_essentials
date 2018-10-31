@@ -1,0 +1,80 @@
+material clockw_main
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.588 0.588 0.588
+			diffuse 0.588 0.588 0.588
+			specular 0 0 0 0
+			emissive 0.4 0.4 0.4
+
+			texture_unit
+			{
+				texture clockw_main_tx.png
+			}
+		}
+	}
+}
+material clockw_chain
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.588 0.588 0.588
+			diffuse 0.588 0.588 0.588
+			specular 0 0 0 0
+			emissive 0.4 0.4 0.4
+			
+			scene_blend alpha_blend
+			depth_write on
+
+			texture_unit
+			{
+				texture clockw_main_tx.png
+				scroll_anim 0 -1.2
+			}
+		}
+	}
+}
+material clockw_blade
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.588 0.588 0.588
+			diffuse 0.588 0.588 0.588
+			specular 0 0 0 0
+			emissive 0.4 0.4 0.4
+			texture_unit
+			{
+				anim_texture clockw_anim.dds 12 .5
+			}
+		}
+	}
+}
+
+material clockw_circsaw
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.588 0.588 0.588
+			diffuse 0.588 0.588 0.588
+			specular 0 0 0 0
+			emissive 0.4 0.4 0.4
+			
+			scene_blend alpha_blend
+			depth_write on
+			
+			texture_unit
+			{
+				texture clockw_circsaw_tx.png
+				rotate_anim 1.5
+			}
+		}
+	}
+}

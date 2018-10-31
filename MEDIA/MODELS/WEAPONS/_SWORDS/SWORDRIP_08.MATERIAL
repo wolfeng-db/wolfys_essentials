@@ -1,0 +1,19 @@
+material swordRIP08-mat
+{
+        technique
+        {
+                pass
+                {
+                        ambient 0.588000 0.588000 0.588000
+                        diffuse 0.588000 0.588000 0.588000
+                        specular 0.000000 0.000000 0.000000 0
+                        emissive 0.400000 0.400000 0.400000
+						scene_blend alpha_blend
+						alpha_rejection greater 5
+                        texture_unit
+                        {
+                                texture SWORDRIP_08.png
+                        }
+                }
+        }
+}
