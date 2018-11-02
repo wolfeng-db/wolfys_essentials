@@ -34,7 +34,7 @@ Changes to the interface, new items and more.
 - Abysm
     Removed zoom map changes in favor of those from Draw Distance Done Right.
 - Toy Collector
-    Removed town merchant and Chew now sells the inventory from the Lost Spirit mod (just don't try to sell items, there's no buy back function)
+    Chew now sells the inventory from the Lost Spirit mod (just don't try to sell items, there's no buy back function)
 
 ### GAMEPLAY CHANGES
 - 8 Player MP
@@ -83,7 +83,7 @@ Changes to the interface, new items and more.
     - Minor edit of their internal names so they sort at the end of the pet list
 
 ### PERSONAL CHANGES
-    - Increased magic find bonus in golden chests and number of gold coins dropped.
+    - Increased magic find bonus in golden chests and number of gold coins dropped, chance for uniques to drop.
     - Increased magic slots of items to the same values of Synergies, should help avoid magic items with a single effect. 
     - Increase mana regen to 5% and health regen from 0 to 0.5
     - Some changes to the weight of magic items and up so they drop a bit more. 
