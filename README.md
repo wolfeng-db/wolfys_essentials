@@ -83,10 +83,9 @@ Changes to the interface, new items and more.
     - Minor edit of their internal names so they sort at the end of the pet list
 
 ### PERSONAL CHANGES
-    - Increased magic find bonus in golden chests and number of gold coins dropped, chance for uniques to drop.
-    - Increased magic slots of items to the same values of Synergies, should help avoid magic items with a single effect. 
-    - Increase mana regen to 5%
+    - Increased magic find bonus in golden chests, number of gold coins dropped, chance for uniques to drop.
     - Some changes to the weight of magic items and up so they drop a bit more. 
+    - Increase mana regen to 5%
 
 ### MAYBE IN THE FUTURE or maybe standalone
 - Equipment slot overhaul EC
