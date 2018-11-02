@@ -85,7 +85,7 @@ Changes to the interface, new items and more.
 ### PERSONAL CHANGES
     - Increased magic find bonus in golden chests and number of gold coins dropped, chance for uniques to drop.
     - Increased magic slots of items to the same values of Synergies, should help avoid magic items with a single effect. 
-    - Increase mana regen to 5% and health regen from 0 to 0.5
+    - Increase mana regen to 5%
     - Some changes to the weight of magic items and up so they drop a bit more. 
 
 ### MAYBE IN THE FUTURE or maybe standalone
